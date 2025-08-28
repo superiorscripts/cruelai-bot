@@ -1,0 +1,1731 @@
+{
+    "abyssal angel": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Valiance, Acheron",
+        "helm": "Examen",
+        "cape": "Lament"
+    },
+    "abyssal angel's shadow": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Valiance, Acheron",
+        "helm": "Examen",
+        "cape": "Lament"
+     },
+    "deathknight": {
+        "purpose": "Collecting Purposes",
+        "class": "Fighter",
+        "weapon": "Dauntless",
+        "helm": "Anime",
+        "cape": "Fighter"
+    },
+    "alpha doomega": {
+        "purpose": "Stun PvP",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "alpha omega": {
+        "purpose": "Stun PvP",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "alpha pirate": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Ravenous",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "pirate": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Ravenous",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "antique hunter": {
+        "purpose": "All-Rounder DPS, Anti-Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless, Elysium",
+        "helm": "Vim, Pneuma",
+        "cape": "Vainglory"
+    },
+    "artifact hunter": {
+        "purpose": "All-Rounder DPS, Anti-Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless, Elysium",
+        "helm": "Vim, Pneuma",
+        "cape": "Vainglory"
+    },
+    "arachnomancer": {
+        "purpose": "Bossfighter (Dodge), Hybrid Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "archfiend": {
+        "purpose": "Farming, Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Lacerate, Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "legendary archfiend": {
+        "purpose": "Farming, Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Lacerate, Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "archpaladin": {
+        "purpose": "Defensive Tank, Hybrid Support (Debuffs/Heals)",
+        "class": "Luck",
+        "weapon": "Awe Blast, Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory, Lament"
+    },
+    "assassin": {
+        "purpose": "Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "ninja": {
+        "purpose": "Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "ninja warrior": {
+        "purpose": "Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "barber": {
+        "purpose": "Soloer (DPS), Support (Buffs)",
+        "class": "Luck",
+        "weapon": "Dauntless, Arcana's Concerto",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "bard": {
+        "purpose": "Support (Buffs/Heals)",
+        "class": "Luck",
+        "weapon": "Arcana's Concerto, Awe Blast",
+        "helm": "Forge",
+        "cape": "Absolution"
+    },
+    "troubadour of love": {
+        "purpose": "Support (Buffs/Heals)",
+        "class": "Luck",
+        "weapon": "Arcana's Concerto, Awe Blast",
+        "helm": "Forge",
+        "cape": "Absolution"
+    },
+    "beast warrior": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "pumpkin lord": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "warlord": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "beastmaster": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Smite, Ravenous",
+        "helm": "Anima",
+        "cape": "Lament"
+    },
+    "berserker": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "beta berserker": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "chaos avenger member preview": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "blademaster": {
+        "purpose": "All-Rounder DPS, Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless, Praxis",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "swordmaster": {
+        "purpose": "All-Rounder DPS, Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless, Praxis",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "blademaster assassin": {
+        "purpose": "Farming, Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless, Praxis",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "swordmaster assassin": {
+        "purpose": "Farming, Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless, Praxis",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "blood ancient": {
+        "purpose": "Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "cardclasher": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "chaos avenger": {
+        "purpose": "Offensive Tank, Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless, Valiance",
+        "helm": "Anima, Vim, Forge",
+        "cape": "Vainglory, Penitence, Avarice"
+    },
+    "chaos champion prime": {
+        "purpose": "Farming, Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Elysium",
+        "helm": "Anima",
+        "cape": "Vainglory, Avarice"
+    },
+    "any chaos slayer class": {
+        "purpose": "Farming, Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Elysium",
+        "helm": "Anima",
+        "cape": "Vainglory, Avarice"
+    },
+    "dark chaos berserker": {
+        "purpose": "Farming, Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Elysium",
+        "helm": "Anima",
+        "cape": "Vainglory, Avarice"
+    },
+    "chaos shaper": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Lament"
+    },
+    "chrono assassin": {
+        "purpose": "All-Rounder DPS, Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Arcana's Concerto",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "chrono chaorruptor": {
+        "purpose": "All-Rounder DPS, Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Dauntless, Smite",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "chronocorrupter": {
+        "purpose": "All-Rounder DPS, Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Dauntless, Smite",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "chronocommander": {
+        "purpose": "Offensive Tank, Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "chrono commandant": {
+        "purpose": "Offensive Tank, Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "chronomancer": {
+        "purpose": "All-Rounder DPS, Bossfighter (Glass Cannon)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "chronomancer prime": {
+        "purpose": "All-Rounder DPS, Bossfighter (Glass Cannon)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "chrono shadowhunter": {
+        "purpose": "Soloer (DPS), Hybrid Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Ravenous, Arcana's Concerto",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "chrono shadowslayer": {
+        "purpose": "Soloer (DPS), Hybrid Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Ravenous, Arcana's Concerto",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "chunin": {
+        "purpose": "Farming, Hybrid Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "imperial chunin": {
+        "purpose": "Farming, Hybrid Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "classic alpha pirate": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "classic barber": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "classic pirate": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "rogue": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "rogue (rare)": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "classic defender": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "classic doomknight": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory, Avarice"
+    },
+    "classic dragonlord": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "classic exalted soul cleaver": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "classic soul cleaver": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "classic guardian": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "classic legion doomknight": {
+        "purpose": "Bossfighter (Anti-Decay), Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Valiance",
+        "helm": "Forge, Anima",
+        "cape": "Lament"
+    },
+    "classic ninja": {
+        "purpose": "Soloer (Stun), Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "classic paladin": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "clawsuit": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "continuum chronomancer": {
+        "purpose": "Hybrid Support (Buffs/Nukes)",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "quantum chronomancer": {
+        "purpose": "Hybrid Support (Buffs/Nukes)",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "corrupted chronomancer": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Dauntless, Lacerate",
+        "helm": "Forge",
+        "cape": "Penitence"
+    },
+    "overworld chronomancer": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Dauntless, Lacerate",
+        "helm": "Forge",
+        "cape": "Penitence"
+    },
+    "timeless chronomancer": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Dauntless, Lacerate",
+        "helm": "Forge",
+        "cape": "Penitence"
+    },
+    "underworld chronomancer": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Dauntless, Lacerate",
+        "helm": "Forge",
+        "cape": "Penitence"
+    },
+    "dark harbinger": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory, Lament"
+    },
+    "exalted harbinger": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory, Lament"
+    },
+    "exalted soul cleaver": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory, Lament"
+    },
+    "soul cleaver": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory, Lament"
+    },
+    "dark legendary hero": {
+        "purpose": "Support (Heals)",
+        "class": "Luck",
+        "weapon": "Ravenous, Arcana's Concerto",
+        "helm": "Forge",
+        "cape": "Absolution, Vainglory"
+    },
+    "legendary hero": {
+        "purpose": "Support (Heals)",
+        "class": "Luck",
+        "weapon": "Ravenous, Arcana's Concerto",
+        "helm": "Forge",
+        "cape": "Absolution, Vainglory"
+    },
+    "dark metal necro": {
+        "purpose": "Offensive Tank",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory, Penitence"
+    },
+    "doom metal necro": {
+        "purpose": "Offensive Tank",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory, Penitence"
+    },
+    "heavy metal necro": {
+        "purpose": "Offensive Tank",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory, Penitence"
+    },
+    "heavy metal rockstar": {
+        "purpose": "Offensive Tank",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory, Penitence"
+    },
+    "shadow ripper": {
+        "purpose": "Offensive Tank",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory, Penitence"
+    },
+    "unchained rockstar": {
+        "purpose": "Offensive Tank",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory, Penitence"
+    },
+    "deathknight lord": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Health Vamp",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "defender": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "doomknight": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "doomknight overlord": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Arcana's Concerto, Awe Blast",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "dragonlord": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament, Vainglory"
+    },
+    "dragon shinobi": {
+        "purpose": "Soloer (DoT)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "dragonsoul shinobi": {
+        "purpose": "Soloer (DoT)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "shadow dragon shinobi": {
+        "purpose": "Soloer (DoT)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "dragonslayer": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "dragonslayer general": {
+        "purpose": "Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Ravenous",
+        "helm": "Vim, Anima",
+        "cape": "Vainglory"
+    },
+    "shadowflame dragonlord": {
+        "purpose": "Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Ravenous",
+        "helm": "Vim, Anima",
+        "cape": "Vainglory"
+    },
+    "drakel warlord": {
+        "purpose": "Defensive Tank, Soloer (DPS), Anti-Physical PvP",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "empyrean chronomancer": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Valiance, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "eternal chronomancer": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Valiance, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "immortal chronomancer": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Luck",
+        "weapon": "Valiance, Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "enchanted vampire lord": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Valiance, Elysium",
+        "helm": "Forge",
+        "cape": "Avarice, Lament"
+    },
+    "royal vampire lord": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Valiance, Elysium",
+        "helm": "Forge",
+        "cape": "Avarice, Lament"
+    },
+    "vampire": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Valiance, Elysium",
+        "helm": "Forge",
+        "cape": "Avarice, Lament"
+    },
+    "vampire lord": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Valiance, Elysium",
+        "helm": "Forge",
+        "cape": "Avarice, Lament"
+    },
+    "enforcer": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "protosartorium": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "rustbucket": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "eternal inversionist": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "evolved clawsuit": {
+        "purpose": "Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "prismatic clawsuit": {
+        "purpose": "Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "evolved leprechaun": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "evolved pumpkin lord": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "flame dragon warrior": {
+        "purpose": "Farming, Bossfighter (DoT)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Avarice, Vainglory"
+    },
+    "glacial berserker": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "glacial warlord": {
+        "purpose": "Soloer (DPS), DPS Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "glaceran warlord": {
+        "purpose": "Soloer (DPS), DPS Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "savage glaceran warlord": {
+        "purpose": "Soloer (DPS), DPS Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "great thief": {
+        "purpose": "Bossfighter (DPS), Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "grunge rocker": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Lament"
+    },
+    "neo metal necro": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Lament"
+    },
+    "nu metal necro": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Lament"
+    },
+    "shadow rocker": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Lament"
+    },
+    "unchained rocker": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Lacerate",
+        "helm": "Forge",
+        "cape": "Lament"
+    },
+    "guardian": {
+        "purpose": "Hybrid Support (Buffs)",
+        "class": "Luck",
+        "weapon": "Ravenous, Valiance",
+        "helm": "Vim",
+        "cape": "Penitence"
+    },
+    "heroic naval commander": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "legendary naval commander": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "naval commander": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "hobo highlord": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "no class": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "obsidian no class": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "horc evader": {
+        "purpose": "Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Elysium",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "legendary elemental warrior": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "ultra elemental warrior": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "legion blademaster assassin": {
+        "purpose": "Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless, Praxis",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "legion swordmaster assassin": {
+        "purpose": "Dodge PvP",
+        "class": "Luck",
+        "weapon": "Dauntless, Praxis",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "legion doomknight": {
+        "purpose": "Bossfighter (Anti-Decay), Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Valiance",
+        "helm": "Forge, Anima",
+        "cape": "Lament"
+    },
+    "glacial berserker test": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "legion doomknight tester": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "legion paladin member trial": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "legion revenant member test": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "warrior": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "warrior (rare)": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "warriorscythe general": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "void highlord tester": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "leprechaun": {
+        "purpose": "Soloer (Nuke), Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "lord of order": {
+        "purpose": "Support (Buffs/Heals)",
+        "class": "Luck",
+        "weapon": "Arcana's Concerto, Awe Blast",
+        "helm": "Forge",
+        "cape": "Absolution"
+    },
+    "lycan": {
+        "purpose": "Stun PvP",
+        "class": "Luck",
+        "weapon": "Smite",
+        "helm": "Forge",
+        "cape": "Lament"
+    },
+    "master martial artist": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+    },
+    "martial artist": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Lament"
+    },
+    "master ranger": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Elysium, Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory, Avarice"
+    },
+    "ranger": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Elysium, Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory, Avarice"
+    },
+    "mechajouster": {
+        "purpose": "Hybrid Support (Debuffs), Stun PvP",
+        "class": "Luck",
+        "weapon": "Ravenous, Dauntless",
+        "helm": "Forge",
+        "cape": "Lament"
+    },
+    "nechronomancer": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Arcana's Concerto, Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "necrotic chronomancer": {
+        "purpose": "Farming",
+        "class": "Luck",
+        "weapon": "Arcana's Concerto, Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "not a mod": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "paladin": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "silver paladin": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "paladin highlord": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Elysium",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "paladinslayer": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Elysium",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "renegade": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "sentinel": {
+        "purpose": "Soloer (DPS), Anti-Dodge PvP",
+        "class": "Luck",
+        "weapon": "Ravenous",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "shadowscythe general": {
+        "purpose": "Defensive Tank, Stun PvP",
+        "class": "Luck",
+        "weapon": "Smite",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "shadowstalker of time": {
+        "purpose": "Soloer (Nuke), Soloer (Dodge), Bossfighter (DoT)",
+        "class": "Luck",
+        "weapon": "Dauntless, Smite",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "shadowwalker of time": {
+        "purpose": "Soloer (Nuke), Soloer (Dodge), Bossfighter (DoT)",
+        "class": "Luck",
+        "weapon": "Dauntless, Smite",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "shadowweaver of time": {
+        "purpose": "Soloer (Nuke), Soloer (Dodge), Bossfighter (DoT)",
+        "class": "Luck",
+        "weapon": "Dauntless, Smite",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "skycharged grenadier": {
+        "purpose": "Stun PvP",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "skyguard grenadier": {
+        "purpose": "Stun PvP",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "sovereign of storms": {
+        "purpose": "Farming, Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "2 dps soloer)": {
+        "purpose": "Farming, Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Dauntless, Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "star captain": {
+        "purpose": "Soloer (DPS)",
+        "class": "Luck",
+        "weapon": "Valiance, Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "starlord": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Dauntless",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "thief of hours": {
+        "purpose": "All-Rounder DPS, Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Vim",
+        "cape": "Vainglory"
+    },
+    "timekeeper": {
+        "purpose": "Bossfighter (Nuke), Bossfighter (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless, Lacerate",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "timekiller": {
+        "purpose": "Bossfighter (Nuke), Bossfighter (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless, Lacerate",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "undead goat": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Valiance",
+        "helm": "Forge",
+        "cape": "Vainglory"
+    },
+    "undead leprechaun": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Lacerate",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "unlucky leprechaun": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Luck",
+        "weapon": "Lacerate",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "undeadslayer": {
+        "purpose": "Farming, Soloer (Nuke)",
+        "class": "Luck",
+        "weapon": "Dauntless, Valiance",
+        "helm": "Vim",
+        "cape": "Lament"
+    },
+    "verus doomknight": {
+        "purpose": "Defensive Tank, DPS Support (Debuffs)",
+        "class": "Luck",
+        "weapon": "Dauntless, Valiance",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "void highlord": {
+        "purpose": "Soloer (DPS), Bossfighter (DPS)",
+        "class": "Luck",
+        "weapon": "Smite, Dauntless",
+        "helm": "Anima",
+        "cape": "Vainglory"
+    },
+    "yami no ronin": {
+        "purpose": "Soloer (Nuke), Soloer (Dodge)",
+        "class": "Luck",
+        "weapon": "Dauntless, Valiance",
+        "helm": "Anima, Vim",
+        "cape": "Vainglory"
+    },
+    "zaina": {
+        "purpose": "Soloer",
+        "class": "Gay",
+        "weapon": "Gay",
+        "helm": "Gay",
+        "cape": "Gay"
+    },
+    "arcana invoker": {
+        "purpose": "Generalist",
+        "class": "Wizard",
+        "weapon": "Elysium, Ravenous, Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory, Lament"
+    },
+    "arcane dark caster": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "mystical dark caster": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "timeless dark caster": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "archmage": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance (Astral), Acheron (Corporeal), Elysium (Corporeal)",
+        "helm": "Pneuma",
+        "cape": "Vainglory (Astral),Penitence (Corporeal), Avarice"
+    },
+    "battlemage": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Examen, Pneuma",
+        "cape": "Lament, Vainglory"
+    },
+    "battlemage of love": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Examen, Pneuma",
+        "cape": "Lament, Vainglory"
+    },
+    "dark battlemage": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Examen, Pneuma",
+        "cape": "Lament, Vainglory"
+    },
+    "royal battlemage": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Examen, Pneuma",
+        "cape": "Lament, Vainglory"
+    },
+    "blaze binder": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory, Avarice"
+    },
+    "firelord summoner": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory, Avarice"
+    },
+    "blood sorceress": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Avarice, Lament"
+    },
+    "chrono dataknight": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Pneuma",
+        "cape": "Lament, Vainglory"
+    },
+    "chrono dragonknight": {
+        "purpose": "Bossfighter (Nuke)",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Pneuma",
+        "cape": "Lament, Vainglory"
+    },
+    "cryomancer": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "dark cryomancer": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "sakura cryomancer": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "daimon": {
+        "purpose": "Farming, Support (Buffs/Heals)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Examen",
+        "cape": "Vainglory, Avarice"
+    },
+    "dark caster": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "immortal dark caster": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "dark lord": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Penitence, Vainglory"
+    },
+    "darkside": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Penitence, Vainglory"
+    },
+    "dark master of moglins": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory, Avarice"
+    },
+    "master of moglins": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory, Avarice"
+    },
+    "dark ultra omniknight": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory, Penitence"
+    },
+    "ultra omniknight": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory, Penitence"
+    },
+    "darkblood stormking": {
+        "purpose": "Farming, Soloer (Nuke)",
+        "class": "Wizard",
+        "weapon": "Dauntless",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "dragon knight": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+    },
+    "dragon of time": {
+        "purpose": "Farming, Bossfighter (DoT)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma, Wizard",
+        "cape": "Vainglory"
+    },
+    "2 to save inventory space)": {
+        "purpose": "Farming, Bossfighter (DoT)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma, Wizard",
+        "cape": "Vainglory"
+    },
+    "elemental dracomancer": {
+        "purpose": "Defensive Tank",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+    },
+    "love caster": {
+        "purpose": "Defensive Tank",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+    },
+    "evolved dark caster": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "infinite dark caster": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "infinite legion dark caster": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "legion evolved dark caster": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "evolved shaman": {
+        "purpose": "Anti-Dodge PvP",
+        "class": "Wizard",
+        "weapon": "Mana Vamp",
+        "helm": "Pneuma",
+        "cape": "Absolution, Vainglory"
+    },
+    "frost spiritreaver": {
+        "purpose": "Stun PvP",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "grim necromancer": {
+        "purpose": "Offensive Tank",
+        "class": "Wizard",
+        "weapon": "Ravenous, Valiance",
+        "helm": "Pneuma",
+        "cape": "Penitence"
+    },
+    "highseas commander": {
+        "purpose": "All-Rounder DPS, Soloer (Dodge)",
+        "class": "Wizard",
+        "weapon": "Valiance, Lacerate",
+        "helm": "Examen",
+        "cape": "Vainglory"
+    },
+    "infinity knight": {
+        "purpose": "Bossfighter (DoT)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "interstellar knight": {
+        "purpose": "Bossfighter (DoT)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "infinity titan": {
+        "purpose": "Support (Buffs/Debuffs/Heals)",
+        "class": "Wizard",
+        "weapon": "Arcana's Concerto, Awe Blast",
+        "helm": "Forge",
+        "cape": "Absolution"
+    },
+    "stonecrusher": {
+        "purpose": "Support (Buffs/Debuffs/Heals)",
+        "class": "Wizard",
+        "weapon": "Arcana's Concerto, Awe Blast",
+        "helm": "Forge",
+        "cape": "Absolution"
+    },
+    "legion paladin": {
+        "purpose": "Bossfighter (DPS), Support (Buffs/Debuffs/Heals)",
+        "class": "Wizard",
+        "weapon": "Ravenous, Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "legion revenant": {
+        "purpose": "Generalist, Hybrid Support (Debuffs)",
+        "class": "Wizard",
+        "weapon": "Valiance, Praxis",
+        "helm": "Pneuma, Wizard",
+        "cape": "Vainglory, Avarice"
+    },
+    "obsidian paladin chronomancer": {
+        "purpose": "Support (Buffs/Debuffs/Heals)",
+        "class": "Healer",
+        "weapon": "Mana Vamp, Valiance",
+        "helm": "Healer, Hearty",
+        "cape": "Absolution"
+    },
+    "paladin chronomancer": {
+        "purpose": "Support (Buffs/Debuffs/Heals)",
+        "class": "Healer",
+        "weapon": "Mana Vamp, Valiance",
+        "helm": "Healer, Hearty",
+        "cape": "Absolution"
+    },
+    "frostval barbarian": {
+        "purpose": "Support (Buffs/Debuffs/Heals",
+        "class": "Fighter",
+        "weapon": "Arcana's Concerto, Awe Blast",
+        "helm": "Fighter",
+        "cape": "Absolution"
+    },
+    "lightcaster": {
+        "purpose": "Bossfighter (Glass Cannon), Hybrid Support (Buffs/Nukes/Heals)",
+        "class": "Wizard",
+        "weapon": "Valiance, Praxis",
+        "helm": "Pneuma, Wizard",
+        "cape": "Vainglory, Lament"
+    },
+    "lightmage": {
+        "purpose": "Bossfighter (Glass Cannon), Hybrid Support (Buffs/Nukes/Heals)",
+        "class": "Wizard",
+        "weapon": "Valiance, Praxis",
+        "helm": "Pneuma, Wizard",
+        "cape": "Vainglory, Lament"
+    },
+    "mage": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+    },
+    "mage (rare)": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+    },
+    "sorcerer": {
+        "purpose": "N/A: Better suited for collecting only",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+    },
+    "mindbreaker": {
+        "purpose": "Bossfighter (DPS)",
+        "class": "Wizard",
+        "weapon": "Dauntless",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "necromancer": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Penitence"
+    },
+    "pinkomancer": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Penitence"
+    },
+    "northlands monk": {
+        "purpose": "Soloer (DPS), DPS Support (Buffs)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+    },
+    "oracle": {
+        "purpose": "Support (Heals)",
+        "class": "Wizard",
+        "weapon": "Awe Blast",
+        "helm": "Wizard",
+        "cape": "Absolution"
+    },
+    "pink romancer": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Penitence"
+    },
+    "pyromancer": {
+        "purpose": "Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Penitence"
+    },
+    "psionic mindbreaker": {
+        "purpose": "Farming, Bossfighter (DPS)",
+        "class": "Wizard",
+        "weapon": "Dauntless, Valiance, Ravenous",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    },
+    "scarlet sorceress": {
+        "purpose": "Farming",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Lament"
+    },
+    "shaman": {
+        "purpose": "Generalist, Hybrid Support (Buffs/Heals)",
+        "class": "Wizard",
+        "weapon": "Valiance, Elysium",
+        "helm": "Examen, Pneuma",
+        "cape": "Avarice, Vainglory"
+    },
+    "sovereign of storms (option 1": {
+        "purpose": "Farming, Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+    },
+    "2 farming)": {
+        "purpose": "Farming, Soloer (DPS)",
+        "class": "Wizard",
+        "weapon": "Elysium",
+        "helm": "Pneuma",
+        "cape": "Avarice"
+    },
+    "the collector": {
+        "purpose": "Soloer (DPS), Stun PvP",
+        "class": "Wizard",
+        "weapon": "Ravenous",
+        "helm": "Pneuma, Examen",
+        "cape": "Lament"
+    },
+    "vindicator of they": {
+        "purpose": "Soloer (DPS), Stun PvP",
+        "class": "Wizard",
+        "weapon": "Ravenous",
+        "helm": "Pneuma, Examen",
+        "cape": "Lament"
+    },
+    "troll spellsmith": {
+        "purpose": "Generalist, Hybrid Support (Debuffs)",
+        "class": "Wizard",
+        "weapon": "Valiance",
+        "helm": "Pneuma",
+        "cape": "Vainglory"
+    }
+}
