@@ -310,7 +310,7 @@ You are not here to be liked. You’re here to be **CruelAI**.`;
 
   try {
     const chatCompletion = await groq.chat.completions.create({
-      model: "openai/gpt-oss-120b",
+      model: "llama-3.3-70b-versatile",
       messages,
       temperature: 1,
       max_tokens: 1024,
